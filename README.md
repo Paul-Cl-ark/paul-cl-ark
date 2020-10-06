@@ -2,10 +2,11 @@
 
 👨‍💻 Working on lots of great things at [Cazana](https://trade.cazana.com/)
 
-🌱 currently learning
+🌱 currently learning:
 - Svelte, React with TypeScript {}
 - German, Spanish 💬
 - AWS Developer Associate stuff ☁️
+- Testing 🧪
   
 🗓 next on the agenda:
 -  More devops stuff ∞ 
