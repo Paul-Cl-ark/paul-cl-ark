@@ -13,3 +13,5 @@
 
 💭 looking forward to:
 - Getting a cat 🐈
+
+<span style="color:blue">Is this *markdown* or what?</span>
