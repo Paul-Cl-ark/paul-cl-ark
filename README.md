@@ -1,24 +1,33 @@
-#### Hi there, I'm Paul 👋
+<h4>Hi there, I'm Paul 👋</h4>
 
-👨‍💻 working on: 
-- lots of great things at [Cazana](https://trade.cazana.com/)
-- small personal projects in Svelte and React Typescript 🪀
-- getting those weights back up after months without the gym 🏋️‍♂️
+<h6>👨‍💻 working on:</h6> 
+<ul>
+  <li>lots of great things at <a href="https://trade.cazana.com/" target="_blank" rel="noopener noreferrer"><img src="./cazana-inline.png" width="100px" alt="Cazana"/><a/></li>
+  <li>small personal projects in Svelte and React Typescript 🪀</li>
+  <li>getting those weights back up after months without the gym 🏋️‍♂️</li>
+</ul>
 
-🌱 currently learning:
-- Svelte, React with TypeScript {}
-- German, Spanish 💬
-- AWS Developer Associate stuff ☁️
-- Testing 🧪
+<h6>🌱 currently learning:</h6>
+<ul>
+  <li>Svelte, React with TypeScript {}</li>
+  <li>German, Spanish 💬</li>
+  <li>AWS Developer Associate stuff ☁️</li>
+  <li>Testing 🧪</li>
+</ul> 
+
+<h6>🗓 next on the agenda:</h6>
+<ul>
+  <li>More devops stuff 🐳</li>
+  <li>Server-side rendering ⚡︎</li>
+</ul>
+
+<h6>💭 looking forward to:</h6>
+<ul>
+  <li>Getting a cat 🐈</li>
+  <li>Next summer 🏖</li>
+  <li>Getting some inspiration about what to build next... 🤔</li>
+</ul>
   
-🗓 next on the agenda:
-- More devops stuff ∞
-- Server-side rendering ⚡︎
-
-💭 looking forward to:
-- Getting a cat 🐈
-- Next summer 🏖
-- Inspiration about what to build next... 🤔 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript)
