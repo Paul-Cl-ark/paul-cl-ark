@@ -2,7 +2,12 @@
 
 <h6>👨‍💻 working on:</h6> 
 <ul>
-  <li>lots of great things at <a href="https://trade.cazana.com/" target="_blank" rel="noopener noreferrer"><img src="./cazana-inline.png" width="100px" alt="Cazana"/><a/></li>
+  <li style="vertical-align: middle;">
+    <span>lots of great things at</span>&nbsp;&nbsp;
+    <a href="https://trade.cazana.com/" target="_blank" rel="noopener noreferrer">
+      <img src="./cazana-inline.png" width="80px" alt="Cazana" style="vertical-align: middle;"/>
+    <a/>
+  </li>
   <li>small personal projects in Svelte and React Typescript 🪀</li>
   <li>getting those weights back up after months without the gym 🏋️‍♂️</li>
 </ul>
@@ -27,7 +32,6 @@
   <li>Next summer 🏖</li>
   <li>Getting some inspiration about what to build next... 🤔</li>
 </ul>
-  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript)
