@@ -31,7 +31,7 @@
 <ul>
   <li>[x] Getting a cat 🐈 😄</li>
   <li>Next summer 🏖</li>
-  <li>Learning GraphQL... 🤔</li>
+  <li>Learning GraphQL!</li>
 </ul>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
