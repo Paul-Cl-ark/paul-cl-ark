@@ -24,14 +24,14 @@
 <ul>
   <li>More devops stuff 🐳</li>
   <li>Server-side rendering ⚡︎</li>
-  <li>GraphQL ⚛</li>
+  <li>GraphQL 🔗</li>
 </ul>
 
 <h6>💭 looking forward to:</h6>
 <ul>
   <li>[x] Getting a cat 🐈 😄</li>
   <li>Next summer 🏖</li>
-  <li>Learning GraphQL 🔗</li>
+  <li>Learning GraphQL 😎</li>
 </ul>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
