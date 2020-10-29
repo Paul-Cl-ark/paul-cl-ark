@@ -29,7 +29,7 @@
 
 <h6>💭 looking forward to:</h6>
 <ul>
-  <li>[x] Getting a cat 🐈 😄</li>
+  <li>Getting a cat 🐈 [x] 😄</li>
   <li>Next summer 🏖</li>
   <li>Learning GraphQL 😎</li>
 </ul>
