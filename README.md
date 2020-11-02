@@ -32,6 +32,7 @@
   <li>Getting a cat 🐈 ✔️ 😄</li>
   <li>Next summer 🏖</li>
   <li>Learning GraphQL 😎</li>
+  <li>Learning to play the violin 🎻</li>
 </ul>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
