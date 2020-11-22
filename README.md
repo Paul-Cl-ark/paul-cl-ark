@@ -3,12 +3,12 @@
 <h6>👨‍💻 working on:</h6> 
 <ul>
   <li style="vertical-align: middle;">
-    <span>lots of great things at</span>&nbsp;&nbsp;
+    <span>Lots of great things at</span>&nbsp;&nbsp;
     <a href="https://trade.cazana.com/" target="_blank" rel="noopener noreferrer">
       <img src="./cazana-inline.png" width="80px" alt="Cazana" style="vertical-align: middle;"/>
     <a/>
   </li>
-  <li>small personal projects in Svelte and React Typescript 🪀</li>
+  <li>Small personal projects in Svelte and React Typescript 🪀</li>
 </ul>
 
 <h6>🌱 currently learning:</h6>
