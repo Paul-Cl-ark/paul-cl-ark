@@ -9,7 +9,6 @@
     <a/>
   </li>
   <li>small personal projects in Svelte and React Typescript 🪀</li>
-  <li>getting those weights back up after months without the gym 🏋️‍♂️</li>
 </ul>
 
 <h6>🌱 currently learning:</h6>
@@ -18,21 +17,20 @@
   <li>German, Spanish 💬</li>
   <li>AWS Developer Associate stuff ☁️</li>
   <li>Testing 🧪</li>
+  <li>GraphQL 🔗</li>
+  <li>The violin 🎻</li>
 </ul> 
 
 <h6>🗓 next on the agenda:</h6>
 <ul>
   <li>More devops stuff 🐳</li>
   <li>Server-side rendering ⚡︎</li>
-  <li>GraphQL 🔗</li>
 </ul>
 
 <h6>💭 looking forward to:</h6>
 <ul>
-  <li>Getting a cat 🐈 ✔️ 😄</li>
   <li>Next summer 🏖</li>
-  <li>Learning GraphQL 😎</li>
-  <li>Learning to play the violin 🎻</li>
+  <li>Getting back to the gym 🏋️‍♂️</li>
 </ul>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
