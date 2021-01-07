@@ -15,7 +15,6 @@
 <ul>
   <li>Svelte, React with TypeScript {}</li>
   <li>German, Spanish 💬</li>
-  <li>AWS Developer Associate stuff ☁️</li>
   <li>Testing 🧪</li>
   <li>GraphQL 🔗</li>
   <li>The violin 🎻</li>
