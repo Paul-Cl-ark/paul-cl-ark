@@ -16,14 +16,15 @@
   <li>Svelte, React with TypeScript {}</li>
   <li>German, Spanish 💬</li>
   <li>Testing 🧪</li>
-  <li>GraphQL 🔗</li>
   <li>The violin 🎻</li>
+  <li>Python 🐍</li>
 </ul> 
 
 <h6>🗓 next on the agenda:</h6>
 <ul>
   <li>More devops stuff 🐳</li>
   <li>Server-side rendering ⚡︎</li>
+  <li>GraphQL 🔗</li>
 </ul>
 
 <h6>💭 looking forward to:</h6>
