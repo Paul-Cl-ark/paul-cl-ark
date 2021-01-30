@@ -45,4 +45,3 @@
 ![Jest](https://img.shields.io/badge/-Jest-black?style=plastic&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=plastic&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
