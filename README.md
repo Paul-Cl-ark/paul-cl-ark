@@ -29,7 +29,7 @@
 
 <h6>💭 looking forward to:</h6>
 <ul>
-  <li>Next summer 🏖</li>
+  <li>Summer 🏖</li>
   <li>Getting back to the gym 🏋️‍♂️</li>
 </ul>
 
