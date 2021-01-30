@@ -8,7 +8,7 @@
       <img src="./cazana-inline.png" width="80px" alt="Cazana" style="vertical-align: middle;"/>
     <a/>
   </li>
-  <li>Small personal projects in Svelte and React Typescript 🪀</li>
+  <li>Small personal projects in Python, Svelte and React Typescript 🪀</li>
 </ul>
 
 <h6>🌱 currently learning:</h6>
@@ -35,6 +35,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=python)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=plastic&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=plastic&logo=svelte)
