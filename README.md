@@ -8,21 +8,21 @@
       <img src="./cazana-inline.png" width="80px" alt="Cazana" style="vertical-align: middle;"/>
     <a/>
   </li>
-  <li>Small personal projects in Python, Svelte and React Typescript 🪀</li>
+  <li>Small personal projects in Python</li>
 </ul>
 
 <h6>🌱 currently learning:</h6>
 <ul>
   <li>Svelte, React with TypeScript {}</li>
   <li>German, Spanish 💬</li>
-  <li>Testing 🧪</li>
+  <li>Computer science stuff 👨‍🔬</li>
   <li>The violin 🎻</li>
   <li>Python 🐍</li>
 </ul> 
 
 <h6>🗓 next on the agenda:</h6>
 <ul>
-  <li>More devops stuff 🐳</li>
+  <li>More devops stuff - Docker, more AWS 🐳</li>
   <li>Server-side rendering ⚡︎</li>
   <li>GraphQL 🔗</li>
 </ul>
@@ -30,7 +30,8 @@
 <h6>💭 looking forward to:</h6>
 <ul>
   <li>Summer 🏖</li>
-  <li>Getting back to the gym 🏋️‍♂️</li>
+  <li>Spearfishing 🐟🔱</li>
+  <li>Seeing friends and family again 👪</li>
 </ul>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript)
